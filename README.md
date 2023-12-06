@@ -59,4 +59,10 @@
 <ul class="first">	
 	<b>TEST DEMO WEBSITE: <a href="https://q2a-demo.gyzgyn.com/sudoku" target="_blank">LIVE DEMO</a></b>
 	<li>Standard registered user (username: deneme_11 / pass: test1234)</li>
+	<li><img src="https://ihlassovbetov.github.io/assets/plugin-ss/sudoku/sudoku-1.png" width="400px" height="auto" /></li>
+	<li><img src="https://ihlassovbetov.github.io/assets/plugin-ss/sudoku/sudoku-2.png" width="400px" height="auto" /></li>
+	<li><img src="https://ihlassovbetov.github.io/assets/plugin-ss/sudoku/sudoku-3.png" width="400px" height="auto" /></li>
+	<li><img src="https://ihlassovbetov.github.io/assets/plugin-ss/sudoku/sudoku-4.png" width="400px" height="auto" /></li>
+	<li><img src="https://ihlassovbetov.github.io/assets/plugin-ss/sudoku/sudoku-5.png" width="400px" height="auto" /></li>
+	<li><img src="https://ihlassovbetov.github.io/assets/plugin-ss/sudoku/sudoku-6.png" width="400px" height="auto" /></li>
 </ul>
