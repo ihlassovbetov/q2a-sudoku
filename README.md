@@ -45,7 +45,7 @@
 <br/>
 <ul class="first">	
 	<b>HOW SCORE IS CALCULATED?</b>
-	<li>It is custom strategy of calculation. It can be improved or changed. Here, we calculate the COST of completing the game. The parameters of this Cost is minutes spent, seconds spent, errors made, hints used. And it is calculated as below.</li>
+	<li>It is custom strategy of calculation. It can be improved or changed. Here, we calculate the COST of completing the game. The parameters of this Cost is minutes spent, seconds spent, errors made, hints used. And it is calculated as below. Basically, the cost of each error is 5 minutes, and hint is 10 minutes. So, below Cost is in minute base.</li>
 	<li>COST: Minutes + Seconds/60 + Errors*5 + Hints*10</li>
 	<li>Each difficulty level has its own maximum score. So, user's score will be Max.Score minus Cost.</li>
 	<li>SCORE: Maximum Score - Cost</li>
