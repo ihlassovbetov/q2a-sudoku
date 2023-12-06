@@ -44,6 +44,15 @@
 </ul>	
 <br/>
 <ul class="first">	
+	<b>HOW SCORE IS CALCULATED?</b>
+	<li>It is custom strategy of calculation. It can be improved or changed. Here, we calculate the COST of completing the game. The parameters of this Cost is minutes spent, seconds spent, errors made, hints used. And it is calculated as below.</li>
+	<li>COST: Minutes + Seconds/60 + Errors*5 + Hints*10</li>
+	<li>Each difficulty level has its own maximum score. So, user's score will be Max.Score minus Cost.</li>
+	<li>SCORE: Maximum Score - Cost</li>
+  <li>Max.Score in Hard. level is 300.</li>
+</ul>
+<br/>
+<ul class="first">	
 	<b>SUDOKU USER RANKING PAGE:</b>
 	<li>There will be 3 table ranking for each levels: Easy, Medium, Hard.</li>
 	<li>Max.Score in Easy level is 100.</li>
